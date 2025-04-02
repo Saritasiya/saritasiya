@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarita Devi</h1>
-<ima align="right" alt="coding" width="400" scr"https://i.gifer.com/JXA0.gif" >
+<ima align="right" alt="coding" width="400" scr"![image](https://github.com/user-attachments/assets/f71879fe-6f13-4417-a134-2b4f73a95a2a)
+
+" >
 <h3 align="center">A passionate MERN stack development from India</h3>
 
 - 🌱 I’m currently learning **Frame Work**
-
-- 💬 Ask me about **react,node**
-
-- 📫 How to reach me **saritasarita5931@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
